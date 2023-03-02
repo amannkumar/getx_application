@@ -2,15 +2,17 @@
 
 A new Flutter project.
 
-## Getting Started
+## Implementing the features below:
 
-This project is a starting point for a Flutter application.
+Creating our Project and adding Getx Pacakages
+Get Material App (Why we used Get Material App)
+GetX as utilities
+GetX Snackbar
+Getx Dialog Alert
+Getx Bottom Sheet
+Getx Change Light & Dark Theme with GetX Flutter
+Getx Navigator & Routes (How to pass data between different screens)
 
-A few resources to get you started if this is your first Flutter project:
+ # Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![giphy](https://user-images.githubusercontent.com/113698292/222402968-8490164a-18d7-4dab-993c-5fe419e0aea8.gif)
